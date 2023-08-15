@@ -2,11 +2,17 @@
 
 # 🌐💻 Desenvolvedor Full Stack 🚀
 
-Olá, seja bem-vindo(a) ao meu perfil! Me chamo Diego e sou um Desenvolvedor Full Stack com paixão pela tecnologia, venho me especializando em Angular e tenho um pouco de prática com o JSP. Possuo experiência com Java Spring Boot, onde mantive o funcionamento e manutenção de projetos na área da saúde durante minha última experiência. E também tenho conhecimento e prática com os bancos Oracle e PostgreSQL.
+Olá, seja bem-vindo(a) ao meu perfil! Me chamo Diego e sou um Desenvolvedor Full Stack, venho me especializando em Angular + SpringBoot, e também tenho conhecimento e prática com os bancos Oracle e PostgreSQL.
 
 ###  Ferramentas 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://www.svgrepo.com/show/452236/jb-intellij-idea.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/> 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/452236/jb-intellij-idea.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>   
+</div>
 
 
 ###  Skills 
@@ -43,4 +49,6 @@ Olá, seja bem-vindo(a) ao meu perfil! Me chamo Diego e sou um Desenvolvedor Ful
 
 Estou aberto a novas oportunidades, desafios e conexões no mundo da tecnologia. Se você busca um desenvolvedor Full Stack apaixonado e dedicado, estou disponível para colaborar em projetos empolgantes e desafiadores!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/diegobbabo/) [![gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white")](mailto:diegobbabo@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/diegobbabo/) 
+[![gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white")](mailto:diegobbabo@gmail.com)  
+
